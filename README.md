@@ -39,7 +39,8 @@ Para instalar y ejecutar Flutter, tu entorno de desarrollo debe cumplir estos re
 
 
 
-<h2  align="center"  id="rosseta-software">Rosseta Software <img src="https://cdn.iconscout.com/icon/free/png-256/free-rubygems-283026.png?f=webp" alt="align" width="40" height="40" href="https://cdn.iconscout.com/icon/free/png-256/free-rubygems-283026.png?f=webp"/></h2>
+<h2  align="center"  id="rosseta-software">Rosseta Software [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+</h2>
 
 
 **Rosetta** es un traductor dinámico binario para Mac OS X que permite a muchas aplicaciones PowerPC correr en ciertas arquitecturas [Intel](https://es.wikipedia.org/wiki/X86 "X86") de las computadoras [Macintosh](https://es.wikipedia.org/wiki/Macintosh "Macintosh")
@@ -89,7 +90,7 @@ xcode-select -p
 
 
 
-## Homebrew
+## Homebrew 
 
 
 
